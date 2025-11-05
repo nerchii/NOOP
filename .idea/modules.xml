@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/Objektno.iml" filepath="$PROJECT_DIR$/Objektno.iml" />
       <module fileurl="file://$PROJECT_DIR$/STRATEGY/STRATEGY.iml" filepath="$PROJECT_DIR$/STRATEGY/STRATEGY.iml" />
       <module fileurl="file://$PROJECT_DIR$/VJ1_STRATEGY_PATTERN/VJ1_STRATEGY_PATTERN.iml" filepath="$PROJECT_DIR$/VJ1_STRATEGY_PATTERN/VJ1_STRATEGY_PATTERN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VJ2_OBSERVER_PATTERN/VJ2_OBSERVER_PATTERN.iml" filepath="$PROJECT_DIR$/VJ2_OBSERVER_PATTERN/VJ2_OBSERVER_PATTERN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fasada/fasada.iml" filepath="$PROJECT_DIR$/fasada/fasada.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer_zadatak/observer_zadatak.iml" filepath="$PROJECT_DIR$/observer_zadatak/observer_zadatak.iml" />
       <module fileurl="file://$PROJECT_DIR$/predavanje_2/predavanje_2.iml" filepath="$PROJECT_DIR$/predavanje_2/predavanje_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/predlozci_dizajna/predlozci_dizajna.iml" filepath="$PROJECT_DIR$/predlozci_dizajna/predlozci_dizajna.iml" />

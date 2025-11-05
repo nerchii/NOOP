@@ -9,6 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ADAPTERR" target="24" />
       <module name="zadatak" target="24" />
     </bytecodeTargetLevel>
   </component>

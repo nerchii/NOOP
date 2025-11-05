@@ -5,10 +5,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/predavanje_2/zadatak/pom.xml" />
+        <option value="$PROJECT_DIR$/ADAPTERR/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/ADAPTERR/pom.xml" />
         <option value="$PROJECT_DIR$/predavanje_2/zadatak/pom.xml" />
       </set>
     </option>
