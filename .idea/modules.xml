@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ADAPTER/ADAPTER.iml" filepath="$PROJECT_DIR$/ADAPTER/ADAPTER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMD/CMD.iml" filepath="$PROJECT_DIR$/CMD/CMD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FASADE/FASADE.iml" filepath="$PROJECT_DIR$/FASADE/FASADE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GENERICS/GENERICS.iml" filepath="$PROJECT_DIR$/GENERICS/GENERICS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OBSERVER/OBSERVER.iml" filepath="$PROJECT_DIR$/OBSERVER/OBSERVER.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objektno.iml" filepath="$PROJECT_DIR$/Objektno.iml" />
       <module fileurl="file://$PROJECT_DIR$/STRATEGY/STRATEGY.iml" filepath="$PROJECT_DIR$/STRATEGY/STRATEGY.iml" />
-      <module fileurl="file://$PROJECT_DIR$/VJ1_STRATEGY_PATTERN/VJ1_STRATEGY_PATTERN.iml" filepath="$PROJECT_DIR$/VJ1_STRATEGY_PATTERN/VJ1_STRATEGY_PATTERN.iml" />
-      <module fileurl="file://$PROJECT_DIR$/VJ2_OBSERVER_PATTERN/VJ2_OBSERVER_PATTERN.iml" filepath="$PROJECT_DIR$/VJ2_OBSERVER_PATTERN/VJ2_OBSERVER_PATTERN.iml" />
-      <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fasada/fasada.iml" filepath="$PROJECT_DIR$/fasada/fasada.iml" />
-      <module fileurl="file://$PROJECT_DIR$/observer_zadatak/observer_zadatak.iml" filepath="$PROJECT_DIR$/observer_zadatak/observer_zadatak.iml" />
-      <module fileurl="file://$PROJECT_DIR$/predavanje_2/predavanje_2.iml" filepath="$PROJECT_DIR$/predavanje_2/predavanje_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VJEZBE/VJ1_STRATEGY_PATTERN/VJ1_STRATEGY_PATTERN.iml" filepath="$PROJECT_DIR$/VJEZBE/VJ1_STRATEGY_PATTERN/VJ1_STRATEGY_PATTERN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VJEZBE/VJ2_OBSERVER_PATTERN/VJ2_OBSERVER_PATTERN.iml" filepath="$PROJECT_DIR$/VJEZBE/VJ2_OBSERVER_PATTERN/VJ2_OBSERVER_PATTERN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VJEZBE/VJ3_ADAPTER_FASADA/VJ3_ADAPTER_FASADA.iml" filepath="$PROJECT_DIR$/VJEZBE/VJ3_ADAPTER_FASADA/VJ3_ADAPTER_FASADA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VJEZBE/VJEZBE.iml" filepath="$PROJECT_DIR$/VJEZBE/VJEZBE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GENERICS/predavanje_2/predavanje_2.iml" filepath="$PROJECT_DIR$/GENERICS/predavanje_2/predavanje_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/predlozci_dizajna/predlozci_dizajna.iml" filepath="$PROJECT_DIR$/predlozci_dizajna/predlozci_dizajna.iml" />
     </modules>
   </component>

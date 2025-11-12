@@ -19,6 +19,6 @@ public class main {
         Client<String> client1 = new Client<>(enumerationIterator);
         System.out.println(client1.hasNext());
         System.out.println(client1.next());
-        enumerationIterator.remove();
+//        enumerationIterator.remove();
     }
 }
